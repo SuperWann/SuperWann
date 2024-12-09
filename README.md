@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack :
 
-<p align="left> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/css3-231572B6?style=for-the-badge&logo=css3&logoColoksdkr=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -20,7 +20,7 @@
 </p>
 
 # 📊 GitHub Stats :
-<p align="left">
+<p align="center">
   <a href="https://github.com/Stwn25">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stwn25&theme=algolia&hide_border=false"/>
 </a>
