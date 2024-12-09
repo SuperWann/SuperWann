@@ -21,10 +21,10 @@
 
 # 📊 GitHub Stats :
 <p align="left">
-  <a href="https://github.com/adyfp24">
+  <a href="https://github.com/Stwn25">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stwn25&theme=algolia&hide_border=false"/>
 </a>
-<a href="https://github.com/adyfp24">
+<a href="https://github.com/Stwn25">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stwn25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
