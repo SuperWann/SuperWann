@@ -1,6 +1,6 @@
-# 👋 Hi, I am Iwann
+# 👋  Hi, I’m Mohammad Setiawan Wibisono (Iwann)
 
-📌Studied Computer Science in Univercity of Jember <br> ✨Let's Collab! <br> 🧑‍💻Software Engineer Enthusiast
+🎓 Information Technology Student - Class of 2023 <br> 🧑‍💻 Passionate Software Development Enthusiast <br> 🚀 Exploring the endless possibilities in Frontend & Backend development <br> 🌱 Currently learning to become a future-ready software development.
 
 # 💻 Tech Stack :
 
