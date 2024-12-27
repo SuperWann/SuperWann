@@ -1,6 +1,6 @@
 # 👋  Hi, I’m Mohammad Setiawan Wibisono (Iwann)
 
-🎓 Information Technology Student - Class of 2023 <br> 🧑‍💻 Passionate Software Development Enthusiast <br> 🚀 Exploring the endless possibilities in Frontend & Backend development <br> 🌱 Currently learning to become a future-ready software development.
+🎓 Information Technology Student <br> 🧑‍💻 Passionate Software Development Enthusiast <br> 🚀 Exploring the endless possibilities in Frontend & Backend development <br> 🌱 Currently learning to become a future-ready software development.
 
 # 💻 Tech Stack :
 
@@ -26,10 +26,4 @@
 <a href="https://github.com/Stwn25">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stwn25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-setiawan-wibisono-a0b67b291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad setiawan wibisono" height="30" width="40" /></a>
-<a href="https://instagram.com/msiwn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msiwn_" height="30" width="40" /></a>
 </p>
