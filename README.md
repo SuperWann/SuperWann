@@ -21,9 +21,9 @@
 # 📊 GitHub Stats :
 <p align="center">
   <a href="https://github.com/SuperWann">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stwn25&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperWann&theme=algolia&hide_border=false"/>
 </a>
 <a href="https://github.com/SuperWann">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stwn25&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuperWann&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
