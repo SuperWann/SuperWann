@@ -1,1 +1,1 @@
-try to be better
+the slow ones also have a purpose
